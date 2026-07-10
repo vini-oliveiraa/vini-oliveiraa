@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1-naS5h2Rv4QOPcJRwBiJK1XVaZUG67QX/view?usp=shari
 
 ### 🌐 Connect with me
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/vin%C3%ADcius-oliveira-088483218/?locale=en-US)">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
