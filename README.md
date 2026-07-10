@@ -14,21 +14,23 @@ Building web applications, APIs, integrations, and automation solutions.
 - 🌱 Always learning new technologies and improving my craft
 - 📫 Reach me at **vinimaranguape@gmail.com**
 
-📄 **Resume:**  
+📄 **Resume**  
 https://drive.google.com/file/d/1-naS5h2Rv4QOPcJRwBiJK1XVaZUG67QX/view?usp=sharing
 
 ---
 
 ### 🌐 Connect with me
 
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/vin%C3%ADcius-oliveira-088483218/?locale=en-US)">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-oliveira-088483218/?locale=en-US" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,nestjs,postgres,mysql,tailwind,git,docker,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,nestjs,postgres,mysql,tailwind,docker,git,html,css" />
 </p>
