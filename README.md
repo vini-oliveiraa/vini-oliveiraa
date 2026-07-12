@@ -15,7 +15,7 @@ Building web applications, APIs, integrations, and automation solutions.
 - 📫 Reach me at **vinimaranguape@gmail.com**
 
 📄 **Resume**  
-https://drive.google.com/file/d/1-naS5h2Rv4QOPcJRwBiJK1XVaZUG67QX/view?usp=sharing
+[https://drive.google.com/file/d/1-naS5h2Rv4QOPcJRwBiJK1XVaZUG67QX/view?usp=sharing](https://drive.google.com/file/d/1R38LI6bPLiHlGPLmlJW-gl_Dwfnr1EuX/view?usp=sharing)
 
 ---
 
